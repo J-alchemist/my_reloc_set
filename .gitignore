@@ -1,0 +1,7 @@
+.git/
+.history/
+.vscode/
+build/
+devel/
+.catkin_workspace
+
